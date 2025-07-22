@@ -2,7 +2,7 @@
 
 I'm 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kith420e&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kith420&layout=compact&theme=default)
 
 
 <!--
